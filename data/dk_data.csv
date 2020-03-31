@@ -14,6 +14,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,hospitalized,Hele landet,459,29,0.06744186046511629,0.028344229957674744,Denmark
 2020-03-29,hospitalized,Hele landet,499,40,0.08714596949891068,0.0362878600861287,Denmark
 2020-03-30,hospitalized,Hele landet,533,34,0.06813627254509018,0.02862666340318238,Denmark
+2020-03-31,hospitalized,Hele landet,529,-4,-0.0075046904315197,-0.0032715369913865013,Denmark
 2020-03-16,intensive,Hele landet,10,,,,Denmark
 2020-03-17,intensive,Hele landet,18,8,0.8,0.25527250510330607,Denmark
 2020-03-18,intensive,Hele landet,24,6,0.3333333333333333,0.12493873660829992,Denmark
@@ -29,6 +30,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,intensive,Hele landet,121,12,0.11009174311926606,0.04535887237582645,Denmark
 2020-03-29,intensive,Hele landet,131,10,0.08264462809917356,0.03448592533931416,Denmark
 2020-03-30,intensive,Hele landet,137,6,0.04580152671755725,0.01944927150064254,Denmark
+2020-03-31,intensive,Hele landet,145,8,0.058394160583941604,0.024647435078568095,Denmark
 2020-03-16,respirator,Hele landet,,,,,Denmark
 2020-03-17,respirator,Hele landet,4,,,,Denmark
 2020-03-18,respirator,Hele landet,18,14,3.5,0.6532125137753437,Denmark
@@ -44,6 +46,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,respirator,Hele landet,104,15,0.16853932584269662,0.06764333265386756,Denmark
 2020-03-29,respirator,Hele landet,113,9,0.08653846153846154,0.03604510418463933,Denmark
 2020-03-30,respirator,Hele landet,119,6,0.05309734513274336,0.022468517909111068,Denmark
+2020-03-31,respirator,Hele landet,131,12,0.10084033613445378,0.041724334263233534,Denmark
 2020-03-16,hospitalized,Region Hovedstaden,26,,,,Denmark
 2020-03-17,hospitalized,Region Hovedstaden,36,10,0.38461538461538464,0.1413291527964693,Denmark
 2020-03-18,hospitalized,Region Hovedstaden,64,28,0.7777777777777778,0.24987747321659987,Denmark
@@ -59,6 +62,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,hospitalized,Region Hovedstaden,230,15,0.06976744186046512,0.029289376101987504,Denmark
 2020-03-29,hospitalized,Region Hovedstaden,240,10,0.043478260869565216,0.018483405694013133,Denmark
 2020-03-30,hospitalized,Region Hovedstaden,259,19,0.07916666666666666,0.033088522369645774,Denmark
+2020-03-31,hospitalized,Region Hovedstaden,255,-4,-0.015444015444015444,-0.006759583647296644,Denmark
 2020-03-16,intensive,Region Hovedstaden,4,,,,Denmark
 2020-03-17,intensive,Region Hovedstaden,7,3,0.75,0.24303804868629442,Denmark
 2020-03-18,intensive,Region Hovedstaden,10,3,0.42857142857142855,0.15490195998574316,Denmark
@@ -74,6 +78,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,intensive,Region Hovedstaden,58,5,0.09433962264150944,0.039152123962148226,Denmark
 2020-03-29,intensive,Region Hovedstaden,60,2,0.034482758620689655,0.014723256820706378,Denmark
 2020-03-30,intensive,Region Hovedstaden,63,3,0.05,0.021189299069938092,Denmark
+2020-03-31,intensive,Region Hovedstaden,68,5,0.07936507936507936,0.03316836325265459,Denmark
 2020-03-16,respirator,Region Hovedstaden,,,,,Denmark
 2020-03-17,respirator,Region Hovedstaden,,,,,Denmark
 2020-03-18,respirator,Region Hovedstaden,,,,,Denmark
@@ -89,6 +94,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,respirator,Region Hovedstaden,50,7,0.16279069767441862,0.0655015487564323,Denmark
 2020-03-29,respirator,Region Hovedstaden,55,5,0.1,0.04139268515822507,Denmark
 2020-03-30,respirator,Region Hovedstaden,57,2,0.03636363636363636,0.015512166178247558,Denmark
+2020-03-31,respirator,Region Hovedstaden,65,8,0.14035087719298245,0.05703850097036417,Denmark
 2020-03-16,hospitalized,Region Midtjylland,8,,,,Denmark
 2020-03-17,hospitalized,Region Midtjylland,12,4,0.5,0.17609125905568124,Denmark
 2020-03-18,hospitalized,Region Midtjylland,16,4,0.3333333333333333,0.12493873660829992,Denmark
@@ -104,6 +110,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,hospitalized,Region Midtjylland,68,9,0.15254237288135594,0.06165690106409214,Denmark
 2020-03-29,hospitalized,Region Midtjylland,66,-2,-0.029411764705882353,-0.012964977164367647,Denmark
 2020-03-30,hospitalized,Region Midtjylland,67,1,0.015151515151515152,0.006530867158957755,Denmark
+2020-03-31,hospitalized,Region Midtjylland,69,2,0.029850746268656716,0.012774288036428919,Denmark
 2020-03-16,intensive,Region Midtjylland,2,,,,Denmark
 2020-03-17,intensive,Region Midtjylland,3,1,0.5,0.17609125905568124,Denmark
 2020-03-18,intensive,Region Midtjylland,4,1,0.3333333333333333,0.12493873660829992,Denmark
@@ -119,6 +126,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,intensive,Region Midtjylland,21,2,0.10526315789473684,0.04346569378109026,Denmark
 2020-03-29,intensive,Region Midtjylland,26,5,0.23809523809523808,0.09275405323689871,Denmark
 2020-03-30,intensive,Region Midtjylland,22,-4,-0.15384615384615385,-0.07255066714861173,Denmark
+2020-03-31,intensive,Region Midtjylland,24,2,0.09090909090909091,0.037788560889399754,Denmark
 2020-03-16,respirator,Region Midtjylland,,,,,Denmark
 2020-03-17,respirator,Region Midtjylland,3,,,,Denmark
 2020-03-18,respirator,Region Midtjylland,4,1,0.3333333333333333,0.12493873660829992,Denmark
@@ -134,6 +142,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,respirator,Region Midtjylland,17,3,0.21428571428571427,0.08432088570003587,Denmark
 2020-03-29,respirator,Region Midtjylland,19,2,0.11764705882352941,0.04830467957455504,Denmark
 2020-03-30,respirator,Region Midtjylland,19,0,0,0,Denmark
+2020-03-31,respirator,Region Midtjylland,20,1,0.05263157894736842,0.02227639471115221,Denmark
 2020-03-16,hospitalized,Region Nordjylland,6,,,,Denmark
 2020-03-17,hospitalized,Region Nordjylland,6,0,0,0,Denmark
 2020-03-18,hospitalized,Region Nordjylland,10,4,0.6666666666666666,0.22184874961635634,Denmark
@@ -149,6 +158,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,hospitalized,Region Nordjylland,27,-3,-0.1,-0.045757490560675115,Denmark
 2020-03-29,hospitalized,Region Nordjylland,31,4,0.14814814814814814,0.05999792967528537,Denmark
 2020-03-30,hospitalized,Region Nordjylland,33,2,0.06451612903225806,0.027152246043614773,Denmark
+2020-03-31,hospitalized,Region Nordjylland,31,-2,-0.06060606060606061,-0.027152246043614773,Denmark
 2020-03-16,intensive,Region Nordjylland,0,,,,Denmark
 2020-03-17,intensive,Region Nordjylland,0,0,NaN,NaN,Denmark
 2020-03-18,intensive,Region Nordjylland,1,1,Inf,Inf,Denmark
@@ -164,6 +174,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,intensive,Region Nordjylland,10,1,0.1111111111111111,0.04575749056067514,Denmark
 2020-03-29,intensive,Region Nordjylland,10,0,0,0,Denmark
 2020-03-30,intensive,Region Nordjylland,9,-1,-0.1,-0.045757490560675115,Denmark
+2020-03-31,intensive,Region Nordjylland,12,3,0.3333333333333333,0.12493873660829992,Denmark
 2020-03-16,respirator,Region Nordjylland,,,,,Denmark
 2020-03-17,respirator,Region Nordjylland,0,,,,Denmark
 2020-03-18,respirator,Region Nordjylland,1,1,Inf,Inf,Denmark
@@ -179,6 +190,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,respirator,Region Nordjylland,8,0,0,0,Denmark
 2020-03-29,respirator,Region Nordjylland,8,0,0,0,Denmark
 2020-03-30,respirator,Region Nordjylland,8,0,0,0,Denmark
+2020-03-31,respirator,Region Nordjylland,8,0,0,0,Denmark
 2020-03-16,hospitalized,Region Sjælland,13,,,,Denmark
 2020-03-17,hospitalized,Region Sjælland,18,5,0.38461538461538464,0.1413291527964693,Denmark
 2020-03-18,hospitalized,Region Sjælland,27,9,0.5,0.17609125905568124,Denmark
@@ -194,6 +206,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,hospitalized,Region Sjælland,68,-4,-0.05555555555555555,-0.024823583725032152,Denmark
 2020-03-29,hospitalized,Region Sjælland,83,15,0.22058823529411764,0.08656917966983761,Denmark
 2020-03-30,hospitalized,Region Sjælland,91,8,0.0963855421686747,0.03996329994501973,Denmark
+2020-03-31,hospitalized,Region Sjælland,95,4,0.04395604395604396,0.018682212967754193,Denmark
 2020-03-16,intensive,Region Sjælland,4,,,,Denmark
 2020-03-17,intensive,Region Sjælland,7,3,0.75,0.24303804868629442,Denmark
 2020-03-18,intensive,Region Sjælland,7,0,0,0,Denmark
@@ -209,6 +222,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,intensive,Region Sjælland,14,0,0,0,Denmark
 2020-03-29,intensive,Region Sjælland,18,4,0.2857142857142857,0.109144469425068,Denmark
 2020-03-30,intensive,Region Sjælland,22,4,0.2222222222222222,0.0871501757189002,Denmark
+2020-03-31,intensive,Region Sjælland,19,-3,-0.13636363636363635,-0.06366907986937727,Denmark
 2020-03-16,respirator,Region Sjælland,,,,,Denmark
 2020-03-17,respirator,Region Sjælland,,,,,Denmark
 2020-03-18,respirator,Region Sjælland,7,,,,Denmark
@@ -224,6 +238,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,respirator,Region Sjælland,12,1,0.09090909090909091,0.037788560889399754,Denmark
 2020-03-29,respirator,Region Sjælland,14,2,0.16666666666666666,0.06694678963061322,Denmark
 2020-03-30,respirator,Region Sjælland,16,2,0.14285714285714285,0.05799194697768673,Denmark
+2020-03-31,respirator,Region Sjælland,16,0,0,0,Denmark
 2020-03-16,hospitalized,Region Syddanmark,9,,,,Denmark
 2020-03-17,hospitalized,Region Syddanmark,10,1,0.1111111111111111,0.04575749056067514,Denmark
 2020-03-18,hospitalized,Region Syddanmark,12,2,0.2,0.07918124604762482,Denmark
@@ -239,6 +254,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,hospitalized,Region Syddanmark,66,12,0.2222222222222222,0.0871501757189002,Denmark
 2020-03-29,hospitalized,Region Syddanmark,79,13,0.19696969696969696,0.07808315574857276,Denmark
 2020-03-30,hospitalized,Region Syddanmark,83,4,0.05063291139240506,0.021451001085632495,Denmark
+2020-03-31,hospitalized,Region Syddanmark,79,-4,-0.04819277108433735,-0.021451001085632495,Denmark
 2020-03-16,intensive,Region Syddanmark,0,,,,Denmark
 2020-03-17,intensive,Region Syddanmark,1,1,Inf,Inf,Denmark
 2020-03-18,intensive,Region Syddanmark,2,1,1,0.3010299956639812,Denmark
@@ -254,6 +270,7 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,intensive,Region Syddanmark,18,4,0.2857142857142857,0.109144469425068,Denmark
 2020-03-29,intensive,Region Syddanmark,17,-1,-0.05555555555555555,-0.024823583725032152,Denmark
 2020-03-30,intensive,Region Syddanmark,21,4,0.23529411764705882,0.09177037335564536,Denmark
+2020-03-31,intensive,Region Syddanmark,22,1,0.047619047619047616,0.02020338608828699,Denmark
 2020-03-16,respirator,Region Syddanmark,,,,,Denmark
 2020-03-17,respirator,Region Syddanmark,1,,,,Denmark
 2020-03-18,respirator,Region Syddanmark,2,1,1,0.3010299956639812,Denmark
@@ -269,3 +286,4 @@ Date,Type,region,number,change,growth,log_RR,country
 2020-03-28,respirator,Region Syddanmark,17,4,0.3076923076923077,0.11650556907143717,Denmark
 2020-03-29,respirator,Region Syddanmark,17,0,0,0,Denmark
 2020-03-30,respirator,Region Syddanmark,19,2,0.11764705882352941,0.04830467957455504,Denmark
+2020-03-31,respirator,Region Syddanmark,22,3,0.15789473684210525,0.0636690798693773,Denmark
