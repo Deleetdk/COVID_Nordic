@@ -3,3 +3,9 @@ COVID hospitalization data for Nordic countries. So far covering just Denmark an
 
 ## Counts
 ![Counts](https://github.com/Deleetdk/COVID_Nordic/raw/master/figs/counts.png "Counts")
+
+## Changes
+![Changes](https://github.com/Deleetdk/COVID_Nordic/raw/master/figs/change.png "Changes")
+
+## Growth
+![Growth](https://github.com/Deleetdk/COVID_Nordic/raw/master/figs/growth.png "Growth")
