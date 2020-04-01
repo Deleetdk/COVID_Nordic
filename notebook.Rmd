@@ -14,8 +14,6 @@ Danish Coronavirus related data:
 - Data https://www.sst.dk/da/corona/tal-og-overvaagning
 - Other data https://www.ssi.dk/aktuelt/sygdomsudbrud/coronavirus/covid-19-i-danmark-epidemiologisk-overvaagningsrapport
 
-NOTE: ERROR IN APRIL 1ST DATA FOR DENMARK!
-
 Norwegian data:
 
 - Various data https://www.vg.no/spesial/2020/corona/

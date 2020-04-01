@@ -18,19 +18,19 @@ attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 
 other attached packages:
- [1] rvest_0.3.5         xml2_1.2.5          jsonlite_1.6.1     
- [4] ggrepel_0.8.2       lubridate_1.7.4     googlesheets4_0.1.0
- [7] kirkegaard_2018.05  metafor_2.1-0       Matrix_1.2-18      
+ [1] rvest_0.3.5         xml2_1.3.0          jsonlite_1.6.1     
+ [4] ggrepel_0.8.2       lubridate_1.7.4     googlesheets4_0.1.1
+ [7] kirkegaard_2018.05  metafor_2.4-0       Matrix_1.2-18      
 [10] psych_1.9.12.31     magrittr_1.5        assertthat_0.2.1   
 [13] weights_1.0.1       mice_3.8.0          gdata_2.18.0       
-[16] Hmisc_4.3-1         Formula_1.2-3       survival_3.1-11    
+[16] Hmisc_4.4-0         Formula_1.2-3       survival_3.1-11    
 [19] lattice_0.20-40     forcats_0.5.0       stringr_1.4.0      
 [22] dplyr_0.8.5         purrr_0.3.3         readr_1.3.1        
-[25] tidyr_1.0.2         tibble_2.1.3        ggplot2_3.3.0      
+[25] tidyr_1.0.2         tibble_3.0.0        ggplot2_3.3.0      
 [28] tidyverse_1.3.0     pacman_0.5.1       
 
 loaded via a namespace (and not attached):
- [1] nlme_3.1-145        fs_1.3.2            RColorBrewer_1.1-2 
+ [1] nlme_3.1-145        fs_1.4.0            RColorBrewer_1.1-2 
  [4] httr_1.4.1          tools_3.6.2         backports_1.1.5    
  [7] R6_2.4.1            rpart_4.1-15        DBI_1.1.0          
 [10] colorspace_1.4-1    nnet_7.3-13         withr_2.1.2        
@@ -42,14 +42,14 @@ loaded via a namespace (and not attached):
 [28] pkgconfig_2.0.3     htmltools_0.4.0     dbplyr_1.4.2       
 [31] htmlwidgets_1.5.1   rlang_0.4.5         readxl_1.3.1       
 [34] rstudioapi_0.11     farver_2.0.3        generics_0.0.2     
-[37] gtools_3.8.1        acepack_1.4.1       Rcpp_1.0.3         
+[37] gtools_3.8.2        acepack_1.4.1       Rcpp_1.0.4         
 [40] munsell_0.5.0       fansi_0.4.1         lifecycle_0.2.0    
 [43] stringi_1.4.6       yaml_2.2.1          plyr_1.8.6         
 [46] grid_3.6.2          parallel_3.6.2      crayon_1.3.4       
 [49] haven_2.2.0         splines_3.6.2       hms_0.5.3          
 [52] knitr_1.28          pillar_1.4.3        reprex_0.3.0       
 [55] glue_1.3.2          evaluate_0.14       latticeExtra_0.6-29
-[58] data.table_1.12.8   modelr_0.1.6        png_0.1-7          
-[61] vctrs_0.2.4         selectr_0.4-2       cellranger_1.1.0   
+[58] data.table_1.12.8   modelr_0.1.6        selectr_0.4-2      
+[61] png_0.1-7           vctrs_0.2.4         cellranger_1.1.0   
 [64] gtable_0.3.0        xfun_0.12           broom_0.5.5        
 [67] cluster_2.1.0       ellipsis_0.3.0     
