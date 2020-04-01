@@ -260,7 +260,7 @@ GG_save("figs/no_growth.png")
 merged %>% 
   filter(!is.na(number), Type != "intensive") %>% 
   #plot
-  ggplot(aes(Date, number, color = country, linetype = Type)) +
+  ggplot(aes(Date, number, color = country)) +
   geom_hline(yintercept = 0, linetype = "dotted") +
   geom_path() +
   geom_text_repel(aes(label = number),
@@ -278,7 +278,7 @@ GG_save("figs/counts.png")
 merged %>% 
   filter(!is.na(change), Type != "intensive") %>% 
   #plot
-  ggplot(aes(Date, change, color = country, linetype = Type)) +
+  ggplot(aes(Date, change, color = country)) +
   scale_y_continuous("Change relative to day before") +
   scale_x_date(date_breaks = "1 day", guide = guide_axis(n.dodge = 3)) +
   geom_hline(yintercept = 0, linetype = "dotted") +
