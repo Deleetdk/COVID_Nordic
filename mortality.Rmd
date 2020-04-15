@@ -1,0 +1,59 @@
+---
+title: "R Notebook"
+output: html_notebook
+editor_options: 
+  chunk_output_type: console
+---
+
+# Init
+
+```{r}
+library(pacman)
+p_load(kirkegaard, readxl, lubridate)
+theme_set(theme_bw())
+```
+
+# Data
+
+```{r}
+#read raw
+dk_mortality = read_excel("data/2020414121317280118157DODDAG.xlsx", skip = 2)
+
+#convert to long
+#and fix date
+dk = dk_mortality %>% 
+  gather(key = year, value = deaths, `2007`:`2019`) %>% 
+  {
+    #names
+    colnames(.)[1:2] = c("month", "day")
+    
+    #fill in month
+    fill(., month) %>% 
+      mutate(
+        deaths = deaths %>% as.numeric(),
+        day = str_replace(day, "\\.", "") %>% as.numeric(),
+        date = str_glue("{year} {month} {day}"),
+        #as date format
+        #warnings are due to impossible values
+        date = date %>% parse_date(format = "%Y %B %d", locale = locale("da"))
+      ) %>% 
+      filter(!is.na(date))
+  }
+```
+
+# Plot
+
+```{r}
+dk %>% 
+  ggplot(aes(date, deaths, color = year)) +
+  geom_line(alpha = .3) +
+  # geom_smooth(aes(color = NULL), span = .1, method = "loess", color = "black", alpha = 0)
+  #alpha does not work as intended
+  stat_smooth(geom='line', alpha=0.7, method = "loess", mapping = aes(color = NULL), span = .01) +
+  scale_x_date(date_breaks = "year", labels = year) +
+  scale_color_discrete(guide = F) +
+  ggtitle("Daily deaths in Denmark, 2009-present",
+          "Smoothed line by LOESS")
+GG_save("figs/dk_daily_deaths.png")
+```
+
